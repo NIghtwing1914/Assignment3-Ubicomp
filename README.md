@@ -7,10 +7,10 @@ Link to the paper : [Human Activity Recognition on Smartphones using a Multiclas
 | -------------       |:-------------:
 | Figure 1            | [Participant with the phone tied to his waist performing 1 of the 6 activities (standing) ](/Figures/Participant.png) 
 | Figure 2            | [Dataset Visualization](/Figures/Visualization.png)     
-| Figure 3            | [Broad level overview of K Nearest Neighbors](/Figures/kNN visualization.png)
-| Figure 4            | [The idea behind DTW](/Figures/kNN idea.png)
+| Figure 3            | [Broad level overview of K Nearest Neighbors](/Figures/kNN_visualization.png)
+| Figure 4            | [The idea behind DTW](/Figures/kNN_idea.png)
 | Figure 5            | [Distance matrix calculation in DTW](/Figures/DTW.png)
-| Figure 6            | [LSTM Cell](/Figures/LSTM Cell.png)
+| Figure 6            | [LSTM Cell](/Figures/LSTM_Cell.png)
 | Figure 7            | [Confusion Matrix for kNN on Raw dataset](/Figures/CM_kNN_Raw.png)
 | Figure 8            | [Confusion Matrix for kNN on Feature engineered data](/Figures/CM_kNN_FE.png)
 | Figure 9            | [Confusion Matrix for Feature Engineering + Logistic Regression](/Figures/CM_LR.png)
